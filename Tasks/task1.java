@@ -1,3 +1,4 @@
+package Tasks;
 import java.util.*;
 
 public class task1 {
